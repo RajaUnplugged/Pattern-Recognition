@@ -1,0 +1,14 @@
+The AI is termed in the year in 1956 John Mc Carthy  
+
+AI is designed so that we do not realise what are the operations that are happening behind the softwares.
+
+AI is a broad area of computer science that makes machines seem it has human intellengence 
+
+AI has been improved a lot in the past few years as There is lot of data to work with now, 
+90% of the worlds data that AI uses is produced in the past 2 years and with a lot of processing speed 
+at a low cost has propelled AI uses in all forms of life. 
+So a lot of new applications have taken birth due to the dramatic increse in interest of a AI in many companies.
+
+In the background is Machine Learning which does all the hard work. Like human beings the computers need to learn
+ from experiences and improve everyday but to all these to happen we need to have models which learn depending on 
+the requirement we need to develop the model and train it to attain a closest result.
